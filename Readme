@@ -1,13 +1,16 @@
 To Run This Application You have to install the 
 WxPython Module . 
 This can be done using following command:
+open command prompt (CMD). ...
+enter command : pip install wheel.
+enter command : pip install pygame.
+To install wxpython enter command : pip install -U wxPython
 
-sudo apt-get install python-wxversion spe
 
 Then to Run it just type 
 
 python calculator.py
 
-Happy Hacking
+********Happy Hacking*******
 
 
